@@ -61,4 +61,8 @@
     color: #6c757d !important;
   }
   
-  
+  .d-flex h2{
+    color: rgb(249, 141, 0);
+    font-weight: 800;
+    font-size: 45px;
+  }
